@@ -1,3 +1,9 @@
+# Advent of Code is not free to copy
+*input.txt
+
+# VSCode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
