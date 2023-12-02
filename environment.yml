@@ -1,0 +1,11 @@
+name: aoc
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python~=3.11.0
+  # Dev tools
+  - ipykernel
+  - ipython
